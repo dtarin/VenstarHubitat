@@ -1,6 +1,6 @@
  import groovy.json.JsonSlurper
 /**
- *  Venstar T5800
+ *  Venstar Hubitat Driver
  *
  *  Copyright 2014 Scottin Pollock
  *  Modifications copyright (C) 2019 David Tarin
